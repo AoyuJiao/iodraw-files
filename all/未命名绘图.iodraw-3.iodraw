@@ -13,8 +13,8 @@
         <mxCell id="SimDN5QDGD6N7nDZDZBu-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="335" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SimDN5QDGD6N7nDZDZBu-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="80" width="180" height="120" as="geometry" />
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-17" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

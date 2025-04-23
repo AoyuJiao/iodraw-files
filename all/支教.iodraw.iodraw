@@ -186,8 +186,8 @@
         <mxCell id="SimDN5QDGD6N7nDZDZBu-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="569" y="103" width="221" height="306" as="geometry" />
         </mxCell>
-        <mxCell id="V1iq1EaAkCdbhAdNKDjd-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="476" y="667" width="60" height="30" as="geometry" />
+        <mxCell id="V1iq1EaAkCdbhAdNKDjd-7" value="随时进行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475.92" y="666" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -185,7 +185,10 @@
           <mxGeometry x="406" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1iq1EaAkCdbhAdNKDjd-4" value="支教志愿者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="336" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="568" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iq1EaAkCdbhAdNKDjd-5" value="支教志愿者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="578" width="68" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

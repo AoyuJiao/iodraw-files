@@ -115,11 +115,19 @@
         <mxCell id="SimDN5QDGD6N7nDZDZBu-80" value="志愿者培训" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="199" y="571" width="121" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="839.7916666666667" y="604.7083333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-82" value="优秀志愿者评选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="652" y="619" width="121" height="40" as="geometry" />
+          <mxGeometry x="656" y="662" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-83" target="SimDN5QDGD6N7nDZDZBu-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-83" value="回访反馈" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="479.59000000000003" y="754" width="121" height="40.5" as="geometry" />
+          <mxGeometry x="479.59000000000003" y="752" width="121" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.958;exitY=0.489;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-84" target="SimDN5QDGD6N7nDZDZBu-83">
           <mxGeometry relative="1" as="geometry" />
@@ -143,9 +151,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="621" y="774" />
-              <mxPoint x="621" y="734" />
-              <mxPoint x="460" y="734" />
-              <mxPoint x="460" y="553" />
+              <mxPoint x="621" y="553" />
               <mxPoint x="252" y="553" />
             </Array>
           </mxGeometry>

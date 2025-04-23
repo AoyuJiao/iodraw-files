@@ -37,11 +37,14 @@
         <mxCell id="SimDN5QDGD6N7nDZDZBu-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#ffb3a0;" vertex="1" parent="1">
           <mxGeometry x="590" y="316" width="188" height="55.5" as="geometry" />
         </mxCell>
-        <mxCell id="SimDN5QDGD6N7nDZDZBu-51" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#f7c1c7;" vertex="1" parent="1">
-          <mxGeometry x="62" y="324" width="188" height="55.5" as="geometry" />
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-51" value="翻转课堂" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#f7c1c7;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="594" y="294" width="188" height="55.5" as="geometry" />
         </mxCell>
-        <mxCell id="SimDN5QDGD6N7nDZDZBu-52" value="云端自习室" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#ffb3a0;" vertex="1" parent="1">
-          <mxGeometry x="62" y="129" width="188" height="55.5" as="geometry" />
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-52" value="云端自习室" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#ffb3a0;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="585" y="208.25" width="188" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="127" width="184" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

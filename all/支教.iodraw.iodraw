@@ -205,7 +205,10 @@
           <mxGeometry x="33" y="613" width="153" height="152" as="geometry" />
         </mxCell>
         <mxCell id="xCb_3VFugR1ptYVPFRv6-2" value="线&lt;div&gt;上&lt;/div&gt;&lt;div&gt;平&lt;/div&gt;&lt;div&gt;台&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="167" y="672" width="60" height="30" as="geometry" />
+          <mxGeometry x="167" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xCb_3VFugR1ptYVPFRv6-3" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="425" y="604" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

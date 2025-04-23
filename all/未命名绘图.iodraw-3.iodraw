@@ -43,12 +43,14 @@
         <mxCell id="SimDN5QDGD6N7nDZDZBu-56" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;心灵陪伴&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;给予心理辅导，全方面提供帮助。&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;通过&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;“&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;小树洞&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;”&lt;/span&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;服务减轻且努力消除孩子们心里的负面情绪。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#ffb3a0;strokeColor=none;glass=0;shadow=0;arcSize=13;" vertex="1" parent="1">
           <mxGeometry x="573" y="294" width="213" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="SimDN5QDGD6N7nDZDZBu-58" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="179" y="235" width="73" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="SimDN5QDGD6N7nDZDZBu-59" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="SimDN5QDGD6N7nDZDZBu-58" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="281" as="sourcePoint" />
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-60" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.817;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="503" y="188" as="sourcePoint" />
+            <mxPoint x="553" y="138" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="553" y="188" />
+              <mxPoint x="503" y="138" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

@@ -116,10 +116,13 @@
           <mxGeometry x="199" y="571" width="121" height="42" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-82" value="优秀志愿者评选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="645" y="759" width="121" height="40" as="geometry" />
+          <mxGeometry x="652" y="619" width="121" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-83" value="回访反馈" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="479.59000000000003" y="757.25" width="121" height="40.5" as="geometry" />
+          <mxGeometry x="479.59000000000003" y="754" width="121" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.958;exitY=0.489;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-84" target="SimDN5QDGD6N7nDZDZBu-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-84" value="“点菜式”服务" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="352.92" y="666" width="123" height="47" as="geometry" />
@@ -134,7 +137,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-88" value="早期学情调查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="199" y="754" width="121" height="47" as="geometry" />
+          <mxGeometry x="199" y="754" width="121" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.297;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-83" target="SimDN5QDGD6N7nDZDZBu-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="774" />
+              <mxPoint x="621" y="734" />
+              <mxPoint x="460" y="734" />
+              <mxPoint x="460" y="553" />
+              <mxPoint x="252" y="553" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

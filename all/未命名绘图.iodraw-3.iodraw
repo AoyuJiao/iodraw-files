@@ -91,11 +91,8 @@
         <mxCell id="SimDN5QDGD6N7nDZDZBu-73" value="“HMU小先生协会”助学部" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="29" y="490" width="770" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SimDN5QDGD6N7nDZDZBu-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-74" target="SimDN5QDGD6N7nDZDZBu-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-74" value="志愿者招募" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="46" y="727" width="121" height="47" as="geometry" />
+          <mxGeometry x="41" y="644" width="132" height="47" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="103" width="221" height="306" as="geometry" />
@@ -107,7 +104,7 @@
           <mxGeometry x="29" y="840" width="770" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-80" value="志愿者培训" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="150" y="606" width="121" height="47" as="geometry" />
+          <mxGeometry x="182" y="580" width="121" height="47" as="geometry" />
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-82" value="优秀志愿者评选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="645" y="752" width="121" height="47" as="geometry" />
@@ -117,6 +114,9 @@
         </mxCell>
         <mxCell id="SimDN5QDGD6N7nDZDZBu-84" value="“点菜式”服务" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="346" y="671" width="123" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-87" value="受助学生报名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f7c1c7;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="41" y="718" width="132" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

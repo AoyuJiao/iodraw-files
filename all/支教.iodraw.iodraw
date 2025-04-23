@@ -207,8 +207,8 @@
         <mxCell id="xCb_3VFugR1ptYVPFRv6-2" value="线&lt;div&gt;上&lt;/div&gt;&lt;div&gt;平&lt;/div&gt;&lt;div&gt;台&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="167" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xCb_3VFugR1ptYVPFRv6-3" value="各学科、科普视频、心理辅导等多元服务" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="433" y="574" width="136" height="99" as="geometry" />
+        <mxCell id="xCb_3VFugR1ptYVPFRv6-3" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;各学科、科普视频、心理辅导等多元服务&lt;/p&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="421" y="563" width="143" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

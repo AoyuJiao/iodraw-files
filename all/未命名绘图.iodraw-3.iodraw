@@ -37,8 +37,8 @@
         <mxCell id="SimDN5QDGD6N7nDZDZBu-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.25;endAngle=0.5;arcWidth=0.26;rotation=-180;flipH=1;fillColor=#f7c1c7;strokeWidth=0;" vertex="1" parent="SimDN5QDGD6N7nDZDZBu-45">
           <mxGeometry x="4.583333333333333" y="9.142857142857144" width="183.33333333333331" height="182.85714285714286" as="geometry" />
         </mxCell>
-        <mxCell id="SimDN5QDGD6N7nDZDZBu-46" value="&lt;div&gt;“”点菜式”&lt;/div&gt;&lt;div&gt;云端支教&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SimDN5QDGD6N7nDZDZBu-45">
-          <mxGeometry x="56.75" y="69" width="120.25" height="89" as="geometry" />
+        <mxCell id="SimDN5QDGD6N7nDZDZBu-46" value="&lt;div&gt;“点菜式”&lt;/div&gt;&lt;div&gt;云端支教&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="SimDN5QDGD6N7nDZDZBu-45">
+          <mxGeometry x="36.12" y="49" width="120.25" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

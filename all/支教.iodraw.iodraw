@@ -192,7 +192,7 @@
         <mxCell id="V1iq1EaAkCdbhAdNKDjd-8" value="经验共享" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="641" y="609" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V1iq1EaAkCdbhAdNKDjd-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SimDN5QDGD6N7nDZDZBu-82">
+        <mxCell id="V1iq1EaAkCdbhAdNKDjd-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.931;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SimDN5QDGD6N7nDZDZBu-73" target="SimDN5QDGD6N7nDZDZBu-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="736" y="530" as="sourcePoint" />
             <mxPoint x="786" y="480" as="targetPoint" />

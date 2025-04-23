@@ -210,8 +210,8 @@
         <mxCell id="xCb_3VFugR1ptYVPFRv6-3" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="421" y="563" width="143" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="xCb_3VFugR1ptYVPFRv6-4" value="各学科、科普视频、心理辅导等多元服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="376" y="582" width="60" height="30" as="geometry" />
+        <mxCell id="xCb_3VFugR1ptYVPFRv6-4" value="各学科、科普视频、心理辅导等多元服务" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="589" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

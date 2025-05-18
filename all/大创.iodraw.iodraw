@@ -133,6 +133,9 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-16" value="PI3K-Akt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-18" value="含SIE的荧光素酶报告质粒转染" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="189.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -282,7 +282,7 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-67" value="给药浓度梯度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="270.5" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-69" value="加权建模" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-69" value="加权模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="1694" width="260.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-70" value="EC&lt;sub&gt;50&lt;/sub&gt;, LD&lt;sub&gt;50&lt;/sub&gt;, 蓝靛果中的含量， 市场成本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

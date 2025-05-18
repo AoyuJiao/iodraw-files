@@ -294,6 +294,9 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vEZpbfw_o-PeKNudKiB-74" target="5vEZpbfw_o-PeKNudKiB-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vEZpbfw_o-PeKNudKiB-74" target="5vEZpbfw_o-PeKNudKiB-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-74" value="指标收敛？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="1780" width="150.75" height="80" as="geometry" />
         </mxCell>
@@ -305,6 +308,9 @@
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-79" value="合理优化区间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="495.38" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-81" value="否（继续迭代）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="569.5" y="1800" width="260.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

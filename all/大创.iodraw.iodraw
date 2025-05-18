@@ -258,8 +258,8 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-60" value="文献挖掘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="1570" width="189.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-61" value="文献挖掘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1580" width="189.5" height="40" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-61" value="实际临床经验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1590" width="189.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

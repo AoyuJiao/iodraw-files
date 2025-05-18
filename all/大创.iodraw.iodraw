@@ -91,7 +91,7 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-2" value="靶点结合性验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-3" value="核心靶点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-3" value="信号通路&lt;div&gt;关键节点检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-4" value="核心靶点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">

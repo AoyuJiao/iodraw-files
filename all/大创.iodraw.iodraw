@@ -210,6 +210,9 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-43" value="生理代谢指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="230" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-45" value="生理代谢指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

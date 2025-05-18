@@ -85,9 +85,6 @@
         <mxCell id="LGvsa-U0GAhvLg4TM-st-19" value="分子动力学模拟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="109" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGvsa-U0GAhvLg4TM-st-20" value="核心靶点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

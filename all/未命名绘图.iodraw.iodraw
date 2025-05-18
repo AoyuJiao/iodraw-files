@@ -7,6 +7,9 @@
         <mxCell id="QhLNFD1d4QBMRK3ByvdW-1" value="蓝靛果果实" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QhLNFD1d4QBMRK3ByvdW-2" value="蓝靛果果实" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

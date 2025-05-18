@@ -85,6 +85,11 @@
         <mxCell id="LGvsa-U0GAhvLg4TM-st-19" value="分子动力学模拟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="230" width="109" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5vEZpbfw_o-PeKNudKiB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-1" value="三种模型细胞" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="10" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -105,6 +110,11 @@
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vEZpbfw_o-PeKNudKiB-3" target="5vEZpbfw_o-PeKNudKiB-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5vEZpbfw_o-PeKNudKiB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-3" value="信号通路&lt;div&gt;关键节点检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />

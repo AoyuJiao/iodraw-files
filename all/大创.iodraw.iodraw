@@ -145,7 +145,7 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;H-2-DG示踪法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="319.25" y="680" width="189.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-22" value="胰岛素信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-22" value="胰岛素信号通路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -300,8 +300,8 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-76" value="迭代实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270.5" y="1790" width="260.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-78" value="迭代实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280.5" y="1800" width="260.5" height="40" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-78" value="否（继续迭代）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559.5" y="1790" width="260.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

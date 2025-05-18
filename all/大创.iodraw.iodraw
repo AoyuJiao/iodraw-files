@@ -113,7 +113,7 @@
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-7" value="CO-IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="359" y="340" width="109" height="40" as="geometry" />
+          <mxGeometry x="370.25" y="340" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-8" value="LC-MS/MS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370.25" y="360" width="109" height="40" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="510" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-18" value="ELISA检测产物PIP3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290.5" y="570" width="189.5" height="40" as="geometry" />
+          <mxGeometry x="300" y="570" width="189.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vEZpbfw_o-PeKNudKiB-19" target="5vEZpbfw_o-PeKNudKiB-4">
           <mxGeometry relative="1" as="geometry" />
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-27" value="IRS-1, AS160磷酸化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="790" width="189.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-29" value="胰岛素信号通路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="518" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -222,8 +222,8 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-47" value="体重、FBS、尿糖水平、食物摄入量等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1190" width="299.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-49" value="体重、FBS、尿糖水平、食物摄入量等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1200" width="299.5" height="40" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-49" value="基因和蛋白表达分析、免疫组化、激素水平定量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79.5" y="1310" width="299.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

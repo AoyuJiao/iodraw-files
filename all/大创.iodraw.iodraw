@@ -38,7 +38,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGvsa-U0GAhvLg4TM-st-6" value="疾病公共数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="379" y="110" width="70" height="40" as="geometry" />
+          <mxGeometry x="359.5" y="110" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGvsa-U0GAhvLg4TM-st-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

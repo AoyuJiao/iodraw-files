@@ -223,7 +223,10 @@
           <mxGeometry x="120" y="1190" width="299.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-49" value="基因和蛋白表达分析、免疫组化、激素水平定量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="79.5" y="1310" width="299.5" height="40" as="geometry" />
+          <mxGeometry x="100" y="1310" width="299.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-50" value="分子水平" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

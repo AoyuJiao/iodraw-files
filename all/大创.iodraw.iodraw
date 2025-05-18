@@ -279,7 +279,7 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-65" value="U&lt;sub&gt;12&lt;/sub&gt;(6&lt;sup&gt;6&lt;/sup&gt;)&lt;div&gt;均匀实验设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="700" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-67" value="给药浓度梯度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-67" value="合理优化区间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="270.5" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-69" value="加权模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

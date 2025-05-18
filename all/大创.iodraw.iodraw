@@ -10,6 +10,9 @@
         <mxCell id="QhLNFD1d4QBMRK3ByvdW-1" value="蓝靛果果实" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LGvsa-U0GAhvLg4TM-st-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QhLNFD1d4QBMRK3ByvdW-2" target="LGvsa-U0GAhvLg4TM-st-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QhLNFD1d4QBMRK3ByvdW-2" value="有效成分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="230" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -21,6 +24,9 @@
         </mxCell>
         <mxCell id="LGvsa-U0GAhvLg4TM-st-1" value="有效成分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGvsa-U0GAhvLg4TM-st-3" value="OB, DL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

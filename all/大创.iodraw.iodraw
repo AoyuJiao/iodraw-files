@@ -234,8 +234,8 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-52" value="急性毒性查询、行为学与体征监测、组织病理分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350.5" y="1420" width="299.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-53" value="模型小鼠" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="280.5" y="1200" width="120" height="60" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-53" value="C57BL/6J小鼠" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

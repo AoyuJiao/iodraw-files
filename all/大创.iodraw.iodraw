@@ -306,11 +306,11 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-78" value="否（继续迭代）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559.5" y="1790" width="260.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-79" value="合理优化区间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-79" value="最优配方" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="495.38" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-81" value="否（继续迭代）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="569.5" y="1800" width="260.5" height="40" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-81" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="439.75" y="1880" width="260.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

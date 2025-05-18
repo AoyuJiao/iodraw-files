@@ -124,8 +124,8 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-12" value="Tyr705, Ser727磷酸化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="470" width="120.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-15" value="Tyr705, Ser727磷酸化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="363" y="480" width="120.5" height="40" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-15" value="含SIE的荧光素酶报告质粒转染" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="520" width="189.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

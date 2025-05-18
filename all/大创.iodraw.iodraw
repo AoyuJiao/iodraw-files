@@ -240,8 +240,8 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-53" value="C57BL/6J小鼠" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-55" value="免疫荧光实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329.25" y="910" width="189.5" height="40" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-55" value="高脂+STZ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1190" width="189.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

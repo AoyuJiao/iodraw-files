@@ -243,8 +243,8 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-55" value="高脂+STZ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="1190" width="189.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-56" value="高脂+STZ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110.5" y="1220" width="189.5" height="40" as="geometry" />
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-56" value="FBS&amp;gt;16.7mmol/L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110.5" y="1210" width="189.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

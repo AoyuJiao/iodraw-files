@@ -37,7 +37,7 @@
             <mxPoint x="480" y="139.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGvsa-U0GAhvLg4TM-st-6" value="SwissTargetPrediction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGvsa-U0GAhvLg4TM-st-6" value="疾病公共数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="379" y="110" width="70" height="40" as="geometry" />
         </mxCell>
       </root>

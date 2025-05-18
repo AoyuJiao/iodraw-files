@@ -31,10 +31,10 @@
         <mxCell id="LGvsa-U0GAhvLg4TM-st-4" value="疾病潜在靶点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGvsa-U0GAhvLg4TM-st-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LGvsa-U0GAhvLg4TM-st-5" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="180" as="sourcePoint" />
-            <mxPoint x="480" y="130" as="targetPoint" />
+            <mxPoint x="350" y="139.5" as="sourcePoint" />
+            <mxPoint x="480" y="139.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

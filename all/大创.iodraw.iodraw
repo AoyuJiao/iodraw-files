@@ -80,7 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGvsa-U0GAhvLg4TM-st-18" value="分子对接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="109" height="40" as="geometry" />
+          <mxGeometry x="580" y="230" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGvsa-U0GAhvLg4TM-st-19" value="分子动力学模拟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="109" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

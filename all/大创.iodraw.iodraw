@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="zzCuILw3oxVd2UuPtls4">
-    <mxGraphModel dx="954" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,19 +174,19 @@
         <mxCell id="5vEZpbfw_o-PeKNudKiB-21" value="&lt;sup&gt;3&lt;/sup&gt;H-2-DG示踪法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="680" width="189.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-22" value="胰岛素信号通路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-22" value="胰岛素信号通路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="508" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-27" value="IRS-1, AS160磷酸化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="790" width="189.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-29" value="GLUT-4转运" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-29" value="GLUT-4转运" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="508" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-31" value="免疫荧光实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="319.25" y="900" width="189.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5vEZpbfw_o-PeKNudKiB-32" value="基因表达调控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-32" value="基因表达调控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="510" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-34" value="Bcl-2, Cyclin D1, IL-6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

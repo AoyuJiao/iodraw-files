@@ -98,7 +98,7 @@
           <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-4" value="功能性验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="230" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-5" value="结合小分子识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="5vEZpbfw_o-PeKNudKiB-8" value="LC-MS/MS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="360" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vEZpbfw_o-PeKNudKiB-9" value="信号通路&lt;div&gt;关键节点检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

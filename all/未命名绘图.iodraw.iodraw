@@ -16,6 +16,9 @@
         <mxCell id="QhLNFD1d4QBMRK3ByvdW-4" value="HPLC-MS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="30" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QhLNFD1d4QBMRK3ByvdW-5" value="HPLC-MS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
